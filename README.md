@@ -1,6 +1,9 @@
-### 
+#### Hey people :raised_hand:
+Myself Soumya,currently working as a full-time software engineer.I developed my passion in coding when I was pursuing my bachelore degree in information technology,from that time I never looked back.I have strong grasp in data structure and algorithms and do leetcodes in my free hours. I enjoy going tech meetups and meet new people.
+  
+##### Skills ⚡ : Java,Spring,Thymeleaf,Android,Postman,Pipeline,DS & Algo<br>
 
-<small>Hi there,I am Soumya,currently a working as a full-time software engineer.I developed my passion in coding when I was in my college,from that time I never looked back.I have a grasp in data structure and algorithms and also do leetcodes in my freetime.</small>
+##### Reach me 📫: subhamlenka@gmail.com
 
 <!--
 **subhamlenka/subhamlenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

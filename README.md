@@ -1,4 +1,6 @@
-### I am Soumya,currently a working as a full-time software engineer.I developed my passion in coding when I was in my college,from that time I never looked back.I have a grasp in data structure and algorithms and also do leetcodes in my freetime.
+### 
+
+<small>Hi there,I am Soumya,currently a working as a full-time software engineer.I developed my passion in coding when I was in my college,from that time I never looked back.I have a grasp in data structure and algorithms and also do leetcodes in my freetime.</small>
 
 <!--
 **subhamlenka/subhamlenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

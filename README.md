@@ -1,5 +1,5 @@
 #### Hey people :raised_hand:
-Myself Soumya,currently working as a full-time software engineer.I developed my passion in coding when I was pursuing my bachelore degree in information technology,from that time I never looked back.I have strong grasp in data structure and algorithms and do leetcodes in my free hours. I enjoy going tech meetups and write blogs.
+Soumya, currently working as a full-time software engineer. I developed my passion for coding when I was pursuing my bachelor's degree in information technology, from that time I never looked back. I have a strong grasp of data structure and algorithms and do leetcodes in my free hours. I enjoy going to tech meetups and write blogs..
   
 ##### Skills ⚡ : Java,Spring,Thymeleaf,Android,Postman,Pipeline,DS & Algo<br>
 

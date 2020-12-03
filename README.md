@@ -3,7 +3,6 @@ Soumya here, currently working as a full-time software engineer. I developed my 
   
 ##### Skills ⚡ : Java,Spring,Thymeleaf,Android,Postman,Pipeline,DS & Algo<br>
 
-##### Reach me 📫: subhamlenka@gmail.com
 
 <!--
 **subhamlenka/subhamlenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
